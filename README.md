@@ -31,7 +31,7 @@
 
 <style>
 .avatar {
-  width: 200px;
-  height: 200px;
+  width: 1200px;
+  height: 1200px;
 }
 </style>
