@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natan</h1>
+<h1 align="center" class="avatar">Hi 👋, I'm Natan</h1>
 <h3 align="center">Frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thr0wn&label=Profile%20views&color=0e75b6&style=flat" alt="thr0wn" /> </p>
@@ -33,5 +33,6 @@
 .avatar {
   width: 1200px;
   height: 1200px;
+  font-size: 400px;
 }
 </style>
