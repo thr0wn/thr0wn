@@ -3,11 +3,10 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thr0wn" alt="thr0wn" /></a> </p>  -->
 
-<p align="left">
-<!--  <img src="https://user-images.githubusercontent.com/5104565/202761778-0555835f-a292-4f24-ab00-7a2bdd673f60.gif" alt="n" /> -->
-<!--  <img src="https://user-images.githubusercontent.com/5104565/202767317-d2d311ec-912f-4b7b-a22e-f3ee23d81b8e.gif" alt="n" /> -->
-<img src="https://user-images.githubusercontent.com/5104565/202772674-19888d7e-fc21-4f52-961d-6735a1feda4b.gif" alt="n" />
-</p>
+<span>
+ <img src="https://user-images.githubusercontent.com/5104565/202772674-19888d7e-fc21-4f52-961d-6735a1feda4b.gif" alt="n" />
+ <img src="https://user-images.githubusercontent.com/5104565/202775292-5c41b427-0b2b-40f4-bf1d-bd5223bb778d.gif" alt="n" />
+</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
