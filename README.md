@@ -1,5 +1,3 @@
-<img align="right" src="https://user-images.githubusercontent.com/5104565/202807708-92bd9131-6239-4a66-bbae-6765832cb922.gif" alt="pug" width="40px" height="40px">
-
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thr0wn" alt="thr0wn" /></a> </p>  -->
 
@@ -28,7 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thr0wn&show_icons=true&locale=en&layout=compact" alt="thr0wn" /></p>
 
-<img float="right" align="right" src="https://user-images.githubusercontent.com/5104565/202807708-92bd9131-6239-4a66-bbae-6765832cb922.gif" alt="pug" width="40px" height="40px">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thr0wn&show_icons=true&locale=en" alt="thr0wn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thr0wn&" alt="thr0wn" /></p>
