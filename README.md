@@ -1,12 +1,9 @@
-<h1 align="center" class="avatar">Hi 👋, I'm Natan</h1>
-<h3 align="center">Frontend developer from Brazil</h3>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thr0wn&label=Profile%20views&color=0e75b6&style=flat" alt="thr0wn" /> </p> -->
 
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thr0wn" alt="thr0wn" /></a> </p>  -->
 
-<p align="center">
+<p align="left">
 <!--  <img src="https://user-images.githubusercontent.com/5104565/202761778-0555835f-a292-4f24-ab00-7a2bdd673f60.gif" alt="n" /> -->
 <!--  <img src="https://user-images.githubusercontent.com/5104565/202767317-d2d311ec-912f-4b7b-a22e-f3ee23d81b8e.gif" alt="n" /> -->
 <img src="https://user-images.githubusercontent.com/5104565/202768516-c6434511-b596-44a7-8c9e-a537e001fa09.gif" alt="n" />
