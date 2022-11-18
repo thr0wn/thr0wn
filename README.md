@@ -6,7 +6,7 @@
 <p align="left">
 <!--  <img src="https://user-images.githubusercontent.com/5104565/202761778-0555835f-a292-4f24-ab00-7a2bdd673f60.gif" alt="n" /> -->
 <!--  <img src="https://user-images.githubusercontent.com/5104565/202767317-d2d311ec-912f-4b7b-a22e-f3ee23d81b8e.gif" alt="n" /> -->
-<img src="https://user-images.githubusercontent.com/5104565/202768516-c6434511-b596-44a7-8c9e-a537e001fa09.gif" alt="n" />
+<img src="https://user-images.githubusercontent.com/5104565/202772674-19888d7e-fc21-4f52-961d-6735a1feda4b.gif" alt="n" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
