@@ -1,4 +1,4 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thr0wn&label=Profile%20views&color=0e75b6&style=flat" alt="thr0wn" /> </p> -->
+<img align="right" src="https://user-images.githubusercontent.com/5104565/202807708-92bd9131-6239-4a66-bbae-6765832cb922.gif" alt="pug" width="40px" height="40px">
 
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thr0wn" alt="thr0wn" /></a> </p>  -->
