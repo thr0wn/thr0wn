@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thr0wn&" alt="thr0wn" /></p>
 
-![](https://komarev.com/ghpvc/?username=thr0wn)(<small>Olhou é pq tá querendo comprar, né?</small>)
+![](https://komarev.com/ghpvc/?username=thr0wn)
