@@ -10,9 +10,6 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/natan-camargos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="natan-camargos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natan-camargos-7b8153122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natan-camargos-7b8153122" height="30" width="40" /></a>
-<a href="https://codepen.io/natannsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="natannsc" height="30" width="40" /></a>
-<a href="https://twitter.com/@__thrown__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@__thrown__" height="30" width="40" /></a>
-<a href="https://codesandbox.com/thr0wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="thr0wn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
