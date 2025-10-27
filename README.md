@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/android-black?logo=android" />
   </a>
   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/c#-black?logo=csharp"/>
+    <img src="https://img.shields.io/badge/csharp-black?logo=csharp"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/unity-black?logo=unity" />
