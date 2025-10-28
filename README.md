@@ -1,48 +1,51 @@
-### Connect with me:
+### Hi, I'm Natan.
+> e-mail: natanscamargos@gmail.com
+
+#### Connect with me:
 <a href="https://stackoverflow.com/users/6489712/natan-camargos">
-  <img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-black?logo=stackoverflow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-black?logo=stackoverflow&style=for-the-badge">
 </a>
 <a href="https://www.linkedin.com/in/natan-camargos-7b8153122/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-black?logo=linkedin">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-black?logo=linkedin&style=for-the-badge">
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/javascript-black?logo=javascript"/>
+    <img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/html-black?logo=html5"/>
+    <img src="https://img.shields.io/badge/html-black?logo=html5&style=for-the-badge"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/css-black?logo=css"/>
+    <img src="https://img.shields.io/badge/css-black?logo=css&style=for-the-badge"/>
   </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/cypress-black?logo=cypress"/>
+    <img src="https://img.shields.io/badge/cypress-black?logo=cypress&style=for-the-badge"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/react-black?logo=react"/>
+    <img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/jest-black?logo=jest"/>
+    <img src="https://img.shields.io/badge/jest-black?logo=jest&style=for-the-badge"/>
   </a>
   <a href="https://pugjs.org/" target="_blank" rel="noreferrer">
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/5104565/202807708-92bd9131-6239-4a66-bbae-6765832cb922.gif">
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/node.js-black?logo=node.js"/>
+    <img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/java-black?logo=openjdk"/>
+    <img src="https://img.shields.io/badge/java-black?logo=openjdk&style=for-the-badge"/>
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/android-black?logo=android" />
+    <img src="https://img.shields.io/badge/android-black?logo=android&style=for-the-badge" />
   </a>
   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/csharp-black?logo=csharp"/>
+    <img src="https://img.shields.io/badge/csharp-black?logo=csharp&style=for-the-badge"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/unity-black?logo=unity" />
+    <img src="https://img.shields.io/badge/unity-black?logo=unity&style=for-the-badge" />
   </a>
 </p>
 
