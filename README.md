@@ -47,6 +47,9 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/unity-black?logo=unity&style=for-the-badge" />
   </a>
+  <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/lisp-black?logo=lisp&style=for-the-badge" />
+  </a>
 </p>
 
 <p>
