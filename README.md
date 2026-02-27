@@ -50,6 +50,12 @@
   <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/lisp-black?logo=lisp&style=for-the-badge" />
   </a>
+  <a href="https://github.com/oz123/awesome-c" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/c-black?logo=c&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/c++-black?logo=c++&style=for-the-badge" />
+  </a>
 </p>
 
 <p>
