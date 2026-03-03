@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/c-black?logo=c&style=for-the-badge" />
   </a>
   <a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/c++-black?logo=c++&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/c++-black?logo=cplusplus&style=for-the-badge" />
   </a>
 </p>
 
